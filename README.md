@@ -24,14 +24,13 @@ Each folder typically contains:
 
 ## 🧹 What's Covered
 
-Across these notebooks, common data cleaning tasks include:
-- Handling missing values (imputation/removal)
-- Removing duplicate records
-- Fixing inconsistent data types
-- Standardizing text/categorical values
-- Detecting and treating outliers
-- Renaming and reformatting columns
-- Parsing and converting date/time fields
+Each notebook follows a consistent data cleaning workflow:
+
+1. **Removing redundant columns** – Eliminating irrelevant or non-essential fields to streamline the dataset.
+2. **Renaming columns** – Standardizing column names for clarity and consistency.
+3. **Dropping duplicate records** – Identifying and removing duplicate rows to ensure data integrity.
+4. **Handling missing values** – Detecting and removing NaN/null entries to maintain data quality.
+5. **Applying additional transformations** – Performing further cleaning and formatting steps as required by the dataset.
 
 ## 🛠️ Tech Stack
 
