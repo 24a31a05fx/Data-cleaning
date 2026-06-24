@@ -1,0 +1,245 @@
+,Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Output,Feedback,Age (Months)
+0,20,F,Single,Student,No Income,Post Graduate,Large,1,Positive,240
+1,24,F,Single,Student,Below Rs.10000,Graduate,Small,1,Positive,288
+2,22,M,Single,Student,Below Rs.10000,Post Graduate,Small,1,Negative ,264
+3,22,F,Single,Student,No Income,Graduate,Large,1,Positive,264
+4,22,M,Single,Student,Below Rs.10000,Post Graduate,Large,1,Positive,264
+5,27,F,Married,Employee,More than 50000,Post Graduate,Small,1,Positive,324
+6,22,M,Single,Student,No Income,Graduate,Small,1,Positive,264
+7,24,F,Single,Student,No Income,Post Graduate,Small,1,Positive,288
+8,23,F,Single,Student,No Income,Post Graduate,Small,1,Positive,276
+9,23,F,Single,Student,No Income,Post Graduate,Large,1,Positive,276
+10,22,F,Single,Student,No Income,Post Graduate,Large,1,Positive,264
+11,23,M,Single,Student,Below Rs.10000,Post Graduate,Small,1,Negative ,276
+12,23,M,Single,Student,No Income,Post Graduate,Large,1,Positive,276
+13,21,M,Single,Student,No Income,Graduate,Large,1,Positive,252
+14,23,F,Single,Self Employeed,10001 to 25000,Post Graduate,Large,1,Positive,276
+15,24,F,Single,Student,No Income,Post Graduate,Large,1,Positive,288
+16,28,F,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,336
+17,23,F,Single,Student,No Income,Graduate,Small,1,Negative ,276
+18,25,M,Single,Student,No Income,Graduate,Large,1,Negative ,300
+19,21,F,Single,Student,Below Rs.10000,Post Graduate,Small,1,Positive,252
+20,24,M,Single,Student,No Income,Post Graduate,Small,1,Positive,288
+21,22,M,Single,Student,No Income,Post Graduate,Large,1,Positive,264
+22,22,F,Single,Student,No Income,Graduate,Large,1,Positive,264
+23,23,M,Single,Student,No Income,Graduate,Large,1,Positive,276
+24,21,M,Single,Student,Below Rs.10000,Post Graduate,Small,1,Positive,252
+25,25,M,Single,Student,No Income,Post Graduate,Small,1,Positive,300
+27,22,M,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+28,23,F,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,276
+30,22,F,Single,Employee,10001 to 25000,Graduate,Large,1,Positive,264
+32,25,M,Married,Employee,More than 50000,Ph.D,Large,1,Positive,300
+33,22,F,Single,Student,10001 to 25000,Post Graduate,Large,1,Positive,264
+34,22,F,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+35,25,M,Single,Student,10001 to 25000,Post Graduate,Small,1,Positive,300
+36,25,M,Single,Student,No Income,Post Graduate,Large,0,Positive,300
+37,32,F,Prefer not to say,House wife,No Income,Graduate,Large,1,Negative ,384
+38,23,F,Single,Student,No Income,Post Graduate,Small,1,Positive,276
+40,30,M,Married,Self Employeed,More than 50000,Uneducated,Large,1,Negative ,360
+41,23,M,Single,Student,No Income,Graduate,Small,1,Positive,276
+42,23,M,Single,Student,No Income,Post Graduate,Large,1,Positive,276
+44,22,M,Single,Student,No Income,Graduate,Large,1,Positive,264
+45,27,F,Married,Self Employeed,10001 to 25000,Post Graduate,Small,1,Positive,324
+47,23,M,Single,Student,No Income,Post Graduate,Small,1,Positive,276
+50,23,F,Single,Student,No Income,Graduate,Large,1,Positive,276
+53,25,M,Single,Student,No Income,Post Graduate,Small,1,Positive,300
+55,28,F,Married,Student,No Income,Graduate,Small,1,Positive,336
+56,22,F,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+57,24,F,Single,Student,No Income,Graduate,Small,1,Positive,288
+58,31,M,Married,Employee,More than 50000,Ph.D,Large,1,Positive,372
+59,25,M,Single,Student,No Income,Post Graduate,Large,1,Positive,300
+62,23,M,Single,Student,25001 to 50000,Post Graduate,Small,1,Positive,276
+65,25,M,Single,Student,No Income,Post Graduate,Large,1,Positive,300
+66,24,M,Single,Employee,10001 to 25000,Graduate,Large,1,Positive,288
+69,24,F,Married,Employee,More than 50000,Ph.D,Large,1,Positive,288
+70,22,M,Single,Student,No Income,Graduate,Large,1,Positive,264
+71,24,F,Single,Student,10001 to 25000,Post Graduate,Small,0,Positive,288
+72,25,F,Single,Student,No Income,Post Graduate,Small,1,Positive,300
+74,26,M,Single,Student,No Income,Post Graduate,Large,1,Positive,312
+75,24,F,Single,Student,25001 to 50000,Post Graduate,Small,1,Positive,288
+78,22,F,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+79,24,M,Single,Student,No Income,Post Graduate,Large,1,Positive,288
+80,24,M,Single,Student,10001 to 25000,Post Graduate,Large,1,Positive,288
+82,23,M,Single,Student,No Income,Post Graduate,Small,1,Positive,276
+85,24,F,Single,Student,No Income,Post Graduate,Large,1,Positive,288
+87,25,M,Single,Student,No Income,Graduate,Small,1,Positive,300
+89,28,M,Married,Self Employeed,10001 to 25000,Graduate,Small,0,Negative ,336
+90,27,F,Prefer not to say,Employee,25001 to 50000,Post Graduate,Large,0,Positive,324
+91,26,M,Single,Self Employeed,10001 to 25000,Ph.D,Small,0,Positive,312
+92,22,M,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+94,23,M,Single,Student,No Income,Post Graduate,Small,1,Positive,276
+98,26,M,Married,Employee,25001 to 50000,Graduate,Large,0,Positive,312
+99,32,F,Married,House wife,No Income,Uneducated,Small,0,Positive,384
+102,22,F,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,264
+103,24,F,Single,Student,No Income,Ph.D,Small,1,Positive,288
+104,26,M,Single,Employee,25001 to 50000,Graduate,Small,1,Negative ,312
+105,28,M,Married,Employee,More than 50000,Graduate,Small,0,Positive,336
+106,26,M,Single,Employee,More than 50000,Post Graduate,Small,0,Positive,312
+107,25,M,Single,Student,No Income,Post Graduate,Small,1,Positive,300
+108,25,M,Single,Employee,Below Rs.10000,Graduate,Small,0,Positive,300
+109,18,M,Single,Student,No Income,Graduate,Large,1,Positive,216
+110,21,M,Single,Student,No Income,Post Graduate,Large,1,Positive,252
+112,25,M,Single,Student,Below Rs.10000,Post Graduate,Small,1,Positive,300
+114,23,M,Single,Employee,10001 to 25000,Post Graduate,Small,1,Positive,276
+115,25,F,Married,Employee,25001 to 50000,Graduate,Large,0,Negative ,300
+116,31,F,Married,House wife,No Income,School,Large,1,Positive,372
+117,24,M,Prefer not to say,Self Employeed,More than 50000,Ph.D,Small,0,Positive,288
+118,32,F,Married,Employee,25001 to 50000,Graduate,Large,1,Positive,384
+119,25,M,Single,Employee,25001 to 50000,Graduate,Small,1,Positive,300
+120,27,F,Married,Self Employeed,More than 50000,Graduate,Large,0,Positive,324
+121,26,M,Single,Self Employeed,25001 to 50000,Graduate,Small,1,Positive,312
+122,26,F,Single,Self Employeed,25001 to 50000,Post Graduate,Small,1,Positive,312
+123,32,M,Married,Employee,More than 50000,Ph.D,Large,1,Negative ,384
+124,24,M,Married,Self Employeed,More than 50000,Ph.D,Large,0,Negative ,288
+125,27,F,Married,Self Employeed,25001 to 50000,Graduate,Small,1,Positive,324
+130,28,M,Married,Employee,More than 50000,Post Graduate,Small,1,Positive,336
+131,32,F,Married,Employee,More than 50000,Graduate,Small,0,Positive,384
+133,19,M,Single,Student,No Income,Graduate,Small,0,Negative ,228
+134,19,F,Single,Student,No Income,Graduate,Large,1,Positive,228
+135,27,F,Married,Employee,25001 to 50000,Post Graduate,Small,0,Positive,324
+136,25,M,Single,Self Employeed,25001 to 50000,Graduate,Small,1,Positive,300
+137,33,M,Married,Employee,More than 50000,Ph.D,Large,0,Negative ,396
+138,26,F,Single,Employee,More than 50000,Graduate,Small,1,Positive,312
+139,22,F,Single,Student,Below Rs.10000,Post Graduate,Large,1,Positive,264
+140,23,M,Single,Student,No Income,Post Graduate,Small,0,Positive,276
+141,22,F,Single,Student,No Income,Graduate,Small,1,Negative ,264
+142,25,M,Married,Employee,25001 to 50000,Graduate,Small,1,Positive,300
+143,30,F,Married,House wife,No Income,School,Large,1,Positive,360
+144,24,M,Single,Student,No Income,Post Graduate,Small,0,Negative ,288
+145,25,M,Single,Employee,10001 to 25000,Post Graduate,Small,1,Positive,300
+146,23,M,Single,Student,More than 50000,Post Graduate,Small,1,Positive,276
+148,32,M,Married,Employee,10001 to 25000,Graduate,Large,1,Positive,384
+152,20,M,Single,Student,No Income,Graduate,Small,1,Positive,240
+153,21,M,Single,Student,No Income,Graduate,Small,1,Positive,252
+154,24,F,Married,Self Employeed,10001 to 25000,Graduate,Large,1,Positive,288
+156,25,M,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,300
+157,32,F,Married,House wife,No Income,Graduate,Small,1,Positive,384
+158,27,M,Married,Employee,More than 50000,Ph.D,Large,0,Negative ,324
+159,20,F,Single,Student,No Income,Graduate,Small,1,Positive,240
+161,26,M,Single,Employee,More than 50000,Post Graduate,Small,0,Negative ,312
+162,25,M,Single,Employee,10001 to 25000,Graduate,Large,1,Positive,300
+163,26,M,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,312
+164,26,F,Married,Employee,25001 to 50000,Graduate,Small,1,Positive,312
+165,27,M,Single,Employee,More than 50000,Ph.D,Large,0,Positive,324
+166,27,F,Single,Student,No Income,Ph.D,Large,0,Negative ,324
+167,24,F,Single,Student,No Income,Post Graduate,Large,1,Positive,288
+168,25,M,Married,Self Employeed,More than 50000,School,Small,1,Positive,300
+169,20,M,Single,Student,No Income,Graduate,Small,0,Negative ,240
+170,22,M,Single,Student,No Income,Post Graduate,Small,1,Positive,264
+171,26,F,Married,Student,Below Rs.10000,Ph.D,Small,1,Positive,312
+172,27,M,Prefer not to say,Employee,25001 to 50000,Post Graduate,Small,1,Positive,324
+174,24,M,Single,Employee,Below Rs.10000,Graduate,Small,1,Positive,288
+175,23,F,Single,Employee,10001 to 25000,Graduate,Large,1,Positive,276
+176,22,M,Single,Student,No Income,Graduate,Small,0,Positive,264
+177,26,M,Married,Self Employeed,More than 50000,Post Graduate,Small,0,Negative ,312
+178,26,M,Single,Employee,Below Rs.10000,Post Graduate,Small,1,Negative ,312
+179,25,F,Married,Self Employeed,25001 to 50000,Post Graduate,Small,0,Positive,300
+180,29,F,Married,Employee,More than 50000,Graduate,Small,0,Positive,348
+181,23,M,Single,Student,Below Rs.10000,Graduate,Small,1,Negative ,276
+182,22,F,Single,Employee,25001 to 50000,Graduate,Large,1,Positive,264
+184,32,F,Married,House wife,No Income,School,Large,1,Positive,384
+185,28,M,Married,Employee,More than 50000,Post Graduate,Small,1,Positive,336
+187,25,M,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,300
+188,26,F,Married,Employee,25001 to 50000,Post Graduate,Small,0,Negative ,312
+189,31,M,Married,Self Employeed,More than 50000,School,Large,1,Positive,372
+191,24,M,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,288
+192,31,F,Married,Employee,More than 50000,Ph.D,Large,1,Positive,372
+193,26,M,Single,Employee,25001 to 50000,Graduate,Small,1,Positive,312
+194,24,F,Married,Self Employeed,More than 50000,Graduate,Small,1,Positive,288
+195,22,F,Single,Student,No Income,Graduate,Small,1,Positive,264
+196,19,M,Single,Student,No Income,Graduate,Large,1,Positive,228
+197,25,M,Married,Employee,More than 50000,Post Graduate,Large,1,Positive,300
+198,23,F,Married,House wife,No Income,School,Large,1,Positive,276
+199,23,F,Single,Student,No Income,Graduate,Small,0,Negative ,276
+203,26,M,Married,Employee,More than 50000,Graduate,Large,1,Positive,312
+204,25,F,Single,Student,No Income,Ph.D,Small,1,Positive,300
+206,29,M,Married,Employee,25001 to 50000,Graduate,Large,0,Negative ,348
+207,23,F,Single,Student,No Income,Graduate,Small,1,Positive,276
+208,25,M,Single,Self Employeed,More than 50000,Graduate,Small,1,Positive,300
+209,29,F,Married,Employee,25001 to 50000,Graduate,Large,0,Negative ,348
+210,27,M,Married,Self Employeed,25001 to 50000,Graduate,Large,0,Negative ,324
+211,25,M,Single,Self Employeed,10001 to 25000,Graduate,Small,1,Positive,300
+212,21,M,Single,Student,No Income,Graduate,Small,0,Negative ,252
+214,24,F,Single,Employee,10001 to 25000,Post Graduate,Large,1,Positive,288
+215,32,M,Married,Self Employeed,10001 to 25000,School,Small,1,Negative ,384
+216,28,M,Married,Employee,25001 to 50000,Post Graduate,Large,1,Positive,336
+217,26,M,Single,Employee,10001 to 25000,Graduate,Small,0,Negative ,312
+218,31,F,Married,House wife,No Income,Graduate,Large,1,Positive,372
+220,21,F,Single,Student,No Income,Post Graduate,Small,1,Positive,252
+221,23,F,Single,Student,No Income,Graduate,Small,0,Positive,276
+222,26,M,Married,Employee,10001 to 25000,Graduate,Large,0,Positive,312
+223,32,M,Married,Employee,More than 50000,Graduate,Large,1,Positive,384
+224,25,F,Married,Student,No Income,Post Graduate,Small,1,Positive,300
+225,28,M,Single,Self Employeed,10001 to 25000,Post Graduate,Small,1,Positive,336
+226,21,F,Single,Student,No Income,Post Graduate,Small,1,Positive,252
+227,24,M,Single,Student,No Income,Post Graduate,Small,1,Positive,288
+228,26,F,Married,Self Employeed,10001 to 25000,Graduate,Large,0,Negative ,312
+229,32,M,Married,Employee,25001 to 50000,Graduate,Small,1,Positive,384
+230,29,M,Single,Self Employeed,More than 50000,Graduate,Large,1,Positive,348
+231,21,M,Single,Student,No Income,Graduate,Large,1,Positive,252
+232,24,F,Single,Self Employeed,25001 to 50000,Post Graduate,Small,0,Negative ,288
+233,26,M,Prefer not to say,Self Employeed,More than 50000,Post Graduate,Small,1,Positive,312
+234,25,M,Married,Employee,More than 50000,Ph.D,Small,1,Positive,300
+235,29,M,Single,Employee,25001 to 50000,Graduate,Small,0,Negative ,348
+237,24,M,Single,Student,No Income,Graduate,Small,1,Positive,288
+238,27,M,Married,Employee,25001 to 50000,Graduate,Small,1,Positive,324
+239,23,F,Single,Student,No Income,Post Graduate,Small,0,Positive,276
+240,32,M,Married,Employee,More than 50000,Post Graduate,Large,1,Positive,384
+241,22,F,Single,Student,No Income,Graduate,Small,1,Positive,264
+242,28,M,Married,Employee,25001 to 50000,Graduate,Small,1,Positive,336
+244,30,M,Married,Self Employeed,More than 50000,Graduate,Small,0,Negative ,360
+245,21,M,Single,Student,No Income,Graduate,Small,1,Positive,252
+246,26,F,Married,Employee,Below Rs.10000,Graduate,Large,0,Negative ,312
+247,25,M,Single,Self Employeed,More than 50000,School,Small,1,Positive,300
+248,31,M,Prefer not to say,Employee,Below Rs.10000,Graduate,Small,0,Negative ,372
+249,23,F,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,276
+250,29,F,Married,Employee,25001 to 50000,Ph.D,Small,1,Positive,348
+251,21,M,Single,Student,No Income,Graduate,Large,1,Positive,252
+252,20,M,Single,Student,No Income,Graduate,Small,1,Positive,240
+253,22,M,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,264
+254,30,F,Married,House wife,No Income,School,Large,0,Positive,360
+255,27,M,Married,Self Employeed,More than 50000,Graduate,Small,1,Positive,324
+256,23,M,Single,Student,No Income,Post Graduate,Small,0,Negative ,276
+257,30,M,Married,Self Employeed,25001 to 50000,School,Large,0,Negative ,360
+259,28,F,Married,Employee,25001 to 50000,Post Graduate,Large,0,Negative ,336
+260,30,M,Married,Self Employeed,More than 50000,Graduate,Large,1,Positive,360
+261,24,F,Married,Employee,25001 to 50000,Post Graduate,Small,1,Negative ,288
+263,23,F,Prefer not to say,Employee,10001 to 25000,Graduate,Small,0,Negative ,276
+264,25,M,Married,Self Employeed,More than 50000,Post Graduate,Large,1,Positive,300
+265,24,F,Single,Employee,25001 to 50000,Graduate,Small,1,Positive,288
+266,26,M,Married,Employee,10001 to 25000,Graduate,Small,0,Negative ,312
+267,25,F,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,300
+268,22,M,Single,Student,25001 to 50000,Graduate,Small,1,Positive,264
+269,26,F,Single,Employee,25001 to 50000,Post Graduate,Small,1,Positive,312
+270,23,M,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,276
+271,21,F,Single,Employee,Below Rs.10000,Graduate,Small,0,Negative ,252
+272,25,M,Married,Self Employeed,25001 to 50000,Graduate,Small,1,Positive,300
+273,24,F,Married,Employee,10001 to 25000,Post Graduate,Small,1,Positive,288
+274,22,M,Married,Student,No Income,Graduate,Small,1,Positive,264
+276,24,M,Married,Employee,More than 50000,Post Graduate,Small,1,Positive,288
+278,30,M,Married,Employee,More than 50000,Graduate,Large,0,Negative ,360
+279,23,F,Prefer not to say,Employee,10001 to 25000,Graduate,Large,1,Positive,276
+281,21,F,Single,Student,No Income,Graduate,Small,1,Positive,252
+283,24,F,Single,Employee,25001 to 50000,Graduate,Small,1,Positive,288
+284,26,F,Married,Employee,10001 to 25000,Post Graduate,Small,0,Positive,312
+285,26,F,Single,Student,No Income,Ph.D,Small,1,Positive,312
+286,25,F,Single,Student,10001 to 25000,Graduate,Small,1,Positive,300
+287,28,F,Married,Employee,25001 to 50000,Graduate,Large,0,Negative ,336
+290,27,F,Married,Self Employeed,More than 50000,Graduate,Large,0,Positive,324
+291,25,F,Married,Employee,25001 to 50000,Graduate,Small,0,Positive,300
+292,24,F,Single,Student,No Income,Post Graduate,Large,0,Negative ,288
+293,25,F,Married,Employee,More than 50000,Graduate,Small,0,Negative ,300
+294,25,F,Prefer not to say,Employee,25001 to 50000,Post Graduate,Small,0,Negative ,300
+295,24,F,Married,Student,Below Rs.10000,Ph.D,Large,1,Positive,288
+297,22,M,Single,Employee,10001 to 25000,Graduate,Small,1,Positive,264
+298,28,M,Single,Employee,25001 to 50000,Post Graduate,Small,0,Negative ,336
+299,25,F,Single,Employee,More than 50000,Post Graduate,Large,0,Negative ,300
+321,21,M,Married,Employee,More than 50000,Ph.D,Small,1,Positive,252
+337,27,M,Married,Self Employeed,25001 to 50000,Graduate,Large,0,Positive,324
+342,22,M,Married,Self Employeed,10001 to 25000,School,Small,1,Negative ,264
+352,29,F,Married,Employee,25001 to 50000,Graduate,Large,0,Positive,348
+355,21,M,Single,Student,No Income,Graduate,Small,0,Positive,252
+363,31,M,Married,Employee,More than 50000,Ph.D,Small,1,Positive,372
+369,30,M,Married,Employee,More than 50000,Post Graduate,Large,1,Positive,360
+374,21,M,Single,Student,No Income,Graduate,Small,1,Negative ,252
+386,23,M,Single,Student,Below Rs.10000,Post Graduate,Small,1,Positive,276
